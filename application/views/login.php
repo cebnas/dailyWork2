@@ -1,7 +1,7 @@
     <body>
         <div id="loginbox">            
             <form id="loginform" class="form-vertical" action="index.html">
-				 <div class="control-group normal_text"> <h3><img src="img/logo.png" alt="Logo" /></h3></div>
+				 <div class="control-group normal_text"> <h3><img src="<?php echo base_url('assets/img/logo.png');?>" alt="Logo" /></h3></div>
                 <div class="control-group">
                     <div class="controls">
                         <div class="main_input_box">
